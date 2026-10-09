@@ -1,0 +1,2 @@
+# DriveGuardAI-Machine-Learning-Based-Intrusion-Detection-in-Vehicular-Networks
+The rising level of connectivity among modern vehicles has significantly increased the level of cybersecurity threats targeting the communication capabilities used among vehicles, with the CAN being the most impacted communication protocol. To mitigate the above challenges, the proposed project will utilize the CIC IoV Dataset 2024
